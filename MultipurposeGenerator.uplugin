@@ -1,0 +1,32 @@
+{
+	"FileVersion": 3,
+	"Version": 2,
+	"VersionName": "2.0.1",
+	"FriendlyName": "MultipurposeGenerator",
+	"Description": "Multipurpose Generator",
+	"Category": "Modding",
+	"CreatedBy": "Jean Michel",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Plugins": [
+		{
+			"Name": "SML",
+			"Enabled": true,
+			"SemVersion": "^3.11.1"
+		}
+	],
+	"SemVersion": "2.0.1",
+	"GameVersion": ">=416835",
+	"LocalizationTargets": [
+		{
+			"Name": "MultipurposeGenerator",
+			"LoadingPolicy": "Always"
+		}
+	]
+}
