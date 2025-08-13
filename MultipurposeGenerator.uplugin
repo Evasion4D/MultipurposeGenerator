@@ -1,7 +1,7 @@
 {
 	"FileVersion": 3,
 	"Version": 2,
-	"VersionName": "2.0.2",
+	"VersionName": "2.0.3",
 	"FriendlyName": "MultipurposeGenerator",
 	"Description": "Multipurpose Generator",
 	"Category": "Modding",
@@ -21,7 +21,7 @@
 			"SemVersion": "^3.11.2"
 		}
 	],
-	"SemVersion": "2.0.2",
+	"SemVersion": "2.0.3",
 	"GameVersion": ">=416835",
 	"LocalizationTargets": [
 		{
