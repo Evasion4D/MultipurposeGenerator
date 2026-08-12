@@ -1,7 +1,7 @@
 {
 	"FileVersion": 3,
 	"Version": 3,
-	"VersionName": "3.0.0",
+	"VersionName": "3.0.4",
 	"FriendlyName": "MultipurposeGenerator",
 	"Description": "",
 	"Category": "Modding",
@@ -22,6 +22,6 @@
 			"SemVersion": "^3.12.0"
 		}
 	],
-	"SemVersion": "3.0.0",
-	"GameVersion": ">=491125"
+	"SemVersion": "3.0.4",
+	"GameVersion": ">=502094"
 }
